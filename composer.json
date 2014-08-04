@@ -1,0 +1,15 @@
+{
+    "name": "mkly/aws_s3_storage",
+    "description": "concrete5 Add-On to provide AWS S3 File Storage",
+    "keywords": ["concrete5", "aws", "s3", "cloud"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Lay",
+            "email": "mike@mkly.io"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "~2.5"
+    }
+}
